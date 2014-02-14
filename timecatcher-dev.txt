@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Timewasters
+! Title: Time Catcher
 ! Expires: 4 days (update frequency)
 
 ! Less Intrusive

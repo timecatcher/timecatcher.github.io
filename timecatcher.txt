@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: nOda/w+uHIodRVSE3RqC+A
-! Title: Timewasters
+! Checksum: B7Oy6cAhWj3PNxbO181Eog
+! Title: Time Catcher
 ! Expires: 4 days (update frequency)
 
 ! Less Intrusive

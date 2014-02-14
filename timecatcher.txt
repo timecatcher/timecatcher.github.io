@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: BuATeTsw7FsJaBfD2E/8lQ
+! Checksum: VJmX4q/60nJc+d8qZIRE0A
 ! Title: Time Catcher
 ! Expires: 1 days (update frequency)
 
@@ -23,7 +23,29 @@ facebook.com##div[aria-label="Ads"]
 facebook.com##div[id^="topnews_main_stream"]
 imgur.com###content
 imgur.com##.panel
-
+fmylife.com#body
+iwastesomuchtime.com##body
+zergnet.com##body
+wherecoolthingshappen.com##body
+popsalad.com##body
+thechive.com##body
+attackofthecute.com##body
+cheezburger.com##body
+oddee.com##body
+2leep.com##body
+spoiledphotos.com##body
+huffingtonpost.com##.three-up
+huffingtonpost.com##nav.main.group
+huffingtonpost.com##.topnav
+huffingtonpost.com###social-subscribe-search
+huffingtonpost.com##.rail
+huffingtonpost.com##.hp-entry-you_may_like
+huffingtonpost.com###float_tracker
+huffingtonpost.com##footer
+huffingtonpost.com###partner_box
+huffingtonpost.com##.around-the-web
+huffingtonpost.com##.links
+huffingtonpost.com##.legal
 ! Ads
 facebook.com##div[class~="ego_"]
 youtube.com##.related-video-featured

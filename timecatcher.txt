@@ -1,0 +1,29 @@
+[Adblock Plus 2.0]
+! Checksum: nOda/w+uHIodRVSE3RqC+A
+! Title: Timewasters
+! Expires: 4 days (update frequency)
+
+! Less Intrusive
+! 9gag.com###sidebar
+! 9gag.com###top-nav
+! 9gag.com##.banner-block
+! 9gag.com##.in-post-top
+! 9gag.com##.what-to-read-next
+! 9gag.com##footer
+! buzzfeed.com###hothead
+! buzzfeed.com###lower-background
+! buzzfeed.com##.Column2
+! buzzfeed.com##.reactions
+
+! More Intrusive
+4chan.ord##body
+9gag.com##body
+buzzfeed.com##body
+facebook.com##div[aria-label="Ads"]
+facebook.com##div[id^="topnews_main_stream"]
+imgur.com###content
+imgur.com##.panel
+
+! Ads
+facebook.com##div[class~="ego_"]
+youtube.com##.related-video-featured

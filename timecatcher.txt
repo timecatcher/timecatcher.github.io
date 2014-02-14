@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: VJmX4q/60nJc+d8qZIRE0A
+! Checksum: 8SWBk4Jv1d68rNAvO0iOBA
 ! Title: Time Catcher
 ! Expires: 1 days (update frequency)
 
@@ -33,10 +33,14 @@ attackofthecute.com##body
 cheezburger.com##body
 oddee.com##body
 2leep.com##body
+shitbrix.com##body
 spoiledphotos.com##body
 huffingtonpost.com##.three-up
 huffingtonpost.com##nav.main.group
 huffingtonpost.com##.topnav
+huffingtonpost.com##.right_column
+huffingtonpost.com##div[id~="featured_"]
+huffingtonpost.com##.margin_top_10
 huffingtonpost.com###social-subscribe-search
 huffingtonpost.com##.rail
 huffingtonpost.com##.hp-entry-you_may_like
@@ -46,6 +50,7 @@ huffingtonpost.com###partner_box
 huffingtonpost.com##.around-the-web
 huffingtonpost.com##.links
 huffingtonpost.com##.legal
+
 ! Ads
 facebook.com##div[class~="ego_"]
 youtube.com##.related-video-featured

@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Time Catcher
-! Expires: 4 days (update frequency)
+! Expires: 1 days (update frequency)
 
 ! Less Intrusive
 ! 9gag.com###sidebar

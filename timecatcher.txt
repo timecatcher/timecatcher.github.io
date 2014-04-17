@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: cfmt1Ayop7d6AYn5Y0i95A
+! Checksum: CM8BlyTd6A7p393Ttz2YsQ
 ! Title: Time Catcher
 ! Expires: 1 days (update frequency)
 
@@ -24,7 +24,7 @@ facebook.com##.count
 facebook.com##div[id^="topnews_main_stream"]
 facebook.com##div[id$="_add_content"]
 facebook.com###navHome
-facebook.com##div[id^="pagelet_timeline_app_collection_report"]
+facebook.com###pagelet_timeline_app_collection_report_95
 imgur.com###content
 imgur.com##.panel
 fmylife.com#body

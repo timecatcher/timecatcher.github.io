@@ -58,3 +58,4 @@ huffingtonpost.com##.legal
 ! Ads
 facebook.com##div[class~="ego_"]
 youtube.com##.related-video-featured
+newindianexpress.com##.column-2

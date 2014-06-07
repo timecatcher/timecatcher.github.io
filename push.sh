@@ -1,1 +1,1 @@
- ./checksum.sh && git commit -am "$1" && git push origin master
+ ./checksum.sh && git commit -a && git push origin master

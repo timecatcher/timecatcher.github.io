@@ -26,6 +26,7 @@ facebook.com###navHome
 facebook.com###pagelet_timeline_app_collection_report_95
 facebook.com###pages_reminders_link
 facebook.com###pagelet_trending_tags_and_topics
+facebook.com##.fbReminders
 imgur.com###content
 imgur.com##.panel
 fmylife.com#body

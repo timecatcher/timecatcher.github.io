@@ -58,6 +58,7 @@ huffingtonpost.com##.links
 huffingtonpost.com##.legal
 
 abcnews.go.com##.story_rail
+abcnews.go.com###discovery
 abcnews.go.com###outbrain-embed
 abcnews.go.com###more-coverage
 *##sharetools-horizontal

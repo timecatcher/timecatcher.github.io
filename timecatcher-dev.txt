@@ -57,6 +57,10 @@ huffingtonpost.com##.around-the-web
 huffingtonpost.com##.links
 huffingtonpost.com##.legal
 
+abcnews.go.com##.story_rail
+abcnews.go.com###outbrain-embed
+##sharetools-horizontal
+
 stltoday.com###right-rail
 stltoday.com###site-footer
 

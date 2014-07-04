@@ -59,7 +59,8 @@ huffingtonpost.com##.legal
 
 abcnews.go.com##.story_rail
 abcnews.go.com###outbrain-embed
-##sharetools-horizontal
+abcnews.go.com###more-coverage
+*##sharetools-horizontal
 
 stltoday.com###right-rail
 stltoday.com###site-footer

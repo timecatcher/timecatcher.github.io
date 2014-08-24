@@ -1009,3 +1009,5 @@ zimbio.com##body
 zoig.com##body
 zossip.com##body
 zuzandra.com##body
+doujin-moe.us##body
+pinkworld.com##body

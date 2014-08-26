@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: e7JpxLr6qmY1OgToFdXDmw
+! Checksum: 8SSOuOxGLW2Qsk6mSBERCg
 ! Title: Time Catcher
 ! Expires: 1 days (update frequency)
 
@@ -628,7 +628,6 @@ pinkcherryaffiliate.com##body
 pinkythekinky.com##body
 pinme.xxx##body
 pinsex.com##body
-pinterest.com##body
 pk5.net##body
 planetsuzy.com##body
 planetsuzy.org##body

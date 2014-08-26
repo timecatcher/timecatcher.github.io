@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: km9yfG5nyHT+t5TMhutIfw
+! Checksum: e7JpxLr6qmY1OgToFdXDmw
 ! Title: Time Catcher
 ! Expires: 1 days (update frequency)
 
@@ -609,7 +609,6 @@ panicporn.com##body
 passion.com##body
 pawn.se##body
 peachyforum.com##body
-people.com##body
 pepsaga.com##body
 perezhilton.com##body
 perfectgirls.net##body

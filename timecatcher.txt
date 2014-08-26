@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: Zj3Wsd+XTJLEEoIkpC/Wvg
+! Checksum: +wQ713dk4Tb68n9IOIQRBQ
 ! Title: Time Catcher
 ! Expires: 1 days (update frequency)
 
@@ -899,7 +899,6 @@ turnporn.com##body
 tush.tumblr.com##body
 twilightsex.com##body
 twistys.com##body
-twitter.com##body
 ua-teens.com##body
 ultimatedesi.net##body
 unitedhomeporn.com##body

@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: JymCqUsfjcUJsGj96tZXPw
+! Checksum: zFwue8I4rREpcmJIThOSBg
 ! Title: Time Catcher
 ! Expires: 1 days (update frequency)
 
@@ -120,7 +120,6 @@ amateurgalore.net##body
 amateurindex.com##body
 amateursex.com##body
 amateurxtv.com##body
-amazon.com##body
 analpornhd.com##body
 analxtv.com##body
 animephile.com##body

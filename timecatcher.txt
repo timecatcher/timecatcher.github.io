@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: +wQ713dk4Tb68n9IOIQRBQ
+! Checksum: zqLJ6John5TcCcgoPl/s6A
 ! Title: Time Catcher
 ! Expires: 1 days (update frequency)
 
@@ -14,7 +14,8 @@
 ! buzzfeed.com###lower-background
 ! buzzfeed.com##.Column2
 ! buzzfeed.com##.reactions
-
+filehippo.com###related-software
+filehippo.com##.related-software
 ! More Intrusive
 4chan.ord##body
 9gag.com##body

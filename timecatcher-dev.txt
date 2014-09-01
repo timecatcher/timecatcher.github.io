@@ -13,7 +13,8 @@
 ! buzzfeed.com###lower-background
 ! buzzfeed.com##.Column2
 ! buzzfeed.com##.reactions
-
+filehippo.com###related-software
+filehippo.com##.related-software
 ! More Intrusive
 4chan.ord##body
 9gag.com##body

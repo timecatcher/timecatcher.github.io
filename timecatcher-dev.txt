@@ -16,6 +16,7 @@
 filehippo.com###related-software
 filehippo.com##.related-software-news
 ! More Intrusive
+gawker.com##body
 4chan.ord##body
 9gag.com##body
 buzzfeed.com##body

@@ -22,6 +22,7 @@ gawker.com##body
 buzzfeed.com##body
 facebook.com##div[aria-label="Ads"]
 facebook.com##._64a
+facebook.com##._ohe.lfloat
 facebook.com##.jewelCount
 facebook.com##._56p9
 facebook.com##.count

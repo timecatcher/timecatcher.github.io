@@ -26,6 +26,7 @@ facebook.com###timeline_tab_content_extra
 facebook.com###u_0_3z
 facebook.com##div._5pcb:nth-child(n+3)
 facebook.com##._64a
+facebook.com##.fbTimelineCapsule
 facebook.com##.jewelCount
 facebook.com##._56p9
 facebook.com##.count

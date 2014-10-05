@@ -21,6 +21,9 @@ gawker.com##body
 9gag.com##body
 buzzfeed.com##body
 facebook.com##div[aria-label="Ads"]
+facebook.com##span._33h
+facebook.com###u_0_3z
+facebook.com##div._5pcb:nth-child(n+3)
 facebook.com##._64a
 facebook.com##.jewelCount
 facebook.com##._56p9

@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: pFgjpc7RGCNoHXtqgG0LAQ
+! Checksum: rUdgJ+NMRT5uvEnPLPJ0cQ
 ! Title: Time Catcher
 ! Expires: 1 days (update frequency)
 
@@ -23,6 +23,7 @@ gawker.com##body
 buzzfeed.com##body
 facebook.com##div[aria-label="Ads"]
 facebook.com##span._33h
+@@||facebook.com/MataAmritanandamayi
 facebook.com###timeline_tab_content_extra
 facebook.com###u_0_3z
 facebook.com##div._5pcb:nth-child(n+3)

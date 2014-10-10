@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: rUdgJ+NMRT5uvEnPLPJ0cQ
+! Checksum: wkEo1AbA0yNMA/IPgvCLQw
 ! Title: Time Catcher
 ! Expires: 1 days (update frequency)
 
@@ -70,7 +70,7 @@ huffingtonpost.com###partner_box
 huffingtonpost.com##.around-the-web
 huffingtonpost.com##.links
 huffingtonpost.com##.legal
-
+cplusplus.com##.C_DonateBox
 abcnews.go.com##.story_rail
 abcnews.go.com###discovery
 abcnews.go.com###outbrain-embed

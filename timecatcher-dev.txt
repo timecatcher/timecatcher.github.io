@@ -69,7 +69,7 @@ huffingtonpost.com###partner_box
 huffingtonpost.com##.around-the-web
 huffingtonpost.com##.links
 huffingtonpost.com##.legal
-
+cplusplus.com##.C_DonateBox
 abcnews.go.com##.story_rail
 abcnews.go.com###discovery
 abcnews.go.com###outbrain-embed

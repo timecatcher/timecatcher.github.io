@@ -86,6 +86,7 @@ youtube.com##.related-video-featured
 youtube.com##.html5-endscreen
 newindianexpress.com##.column-2
 
+vanityfair.com###y-rail
 
 #porns steal attention too
 141tube.com##body

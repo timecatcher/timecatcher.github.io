@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: wkEo1AbA0yNMA/IPgvCLQw
+! Checksum: BWV232WQoIJNGRLuASOoMQ
 ! Title: Time Catcher
 ! Expires: 1 days (update frequency)
 
@@ -87,6 +87,7 @@ youtube.com##.related-video-featured
 youtube.com##.html5-endscreen
 newindianexpress.com##.column-2
 
+vanityfair.com###y-rail
 
 #porns steal attention too
 141tube.com##body

@@ -85,7 +85,7 @@ facebook.com##div[class~="ego_"]
 youtube.com##.related-video-featured
 youtube.com##.html5-endscreen
 newindianexpress.com##.column-2
-
+clickhole.com##body
 vanityfair.com###y-rail
 
 #porns steal attention too

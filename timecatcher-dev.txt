@@ -21,7 +21,7 @@ gawker.com##body
 9gag.com##body
 buzzfeed.com##body
 facebook.com##div[aria-label="Ads"]
-facebook.com##span._33h
+facebook.com##span._33h,.ego_column,.count,.home_right_column
 @@||facebook.com/MataAmritanandamayi
 facebook.com###timeline_tab_content_extra
 facebook.com###u_0_3z
@@ -30,8 +30,6 @@ facebook.com##._64a
 facebook.com##.fbTimelineCapsule
 facebook.com##.jewelCount
 facebook.com##._56p9
-facebook.com##.count
-facebook.com##.home_right_column
 facebook.com##div[id^="topnews_main_stream"]
 facebook.com##div[id$="_add_content"]
 facebook.com###navHome

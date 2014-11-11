@@ -19,7 +19,7 @@ filehippo.com##.related-software-news
 gawker.com##body
 4chan.ord##body
 9gag.com##body
-reddit.com##body
+reddit.com##.thing:nth-of-type(n+5)
 emergency.nofap.org##body
 buzzfeed.com##body
 facebook.com##div[aria-label="Ads"]
@@ -40,6 +40,7 @@ facebook.com##.fbReminders
 facebook.com##._5ah-
 imgur.com###content
 imgur.com##.panel
+
 fmylife.com#body
 iwastesomuchtime.com##body
 zergnet.com##body

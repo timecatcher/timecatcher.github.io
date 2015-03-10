@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: VdrPH3mPCl5UfoEgXk9j+A
+! Checksum: OhNK5E93Zu/KDt9lo88B2A
 ! Title: Time Catcher
 ! Expires: 1 days (update frequency)
 
@@ -40,6 +40,29 @@ facebook.com##.ego_column,.count,.home_right_column
 !facebook.com##.fbReminders
 !facebook.com##._5ah-
 imgur.com##body
+
+! down with the tv websites
+tastekid.com##body
+imdb.com##body
+free-tv-video-online.me##body
+free-tv-video-online.info##body
+filmon.com##body
+tvduck.com##body
+sidereel.com##body
+tv.com##body
+cbs.com/video##body
+tv.com##body
+icefilms.info##body
+surfthechannel.com##body
+tv-links.co.uk##body
+tvshack.net##body
+quicksilverscreen.com##body
+fancast.com##body
+tv-links.cc##body
+ovguide.com##body
+zattoo.com##body
+
+
 fmylife.com##body
 iwastesomuchtime.com##body
 zergnet.com##body
